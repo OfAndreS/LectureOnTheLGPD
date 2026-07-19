@@ -1,0 +1,5 @@
+department,age,shift,full_name,email_address,phone_number
+Sales,34,Morning,John Doe,john.doe@email.com,(555) 123-4567
+Technology,28,Afternoon,Alice Smith,alice.smith@email.com,(555) 987-6543
+Human Resources,45,Morning,Robert Johnson,robert.j@email.com,(555) 111-2222
+Marketing,31,Full-time,Emily Davis,emily.davis@email.com,(555) 333-4444
